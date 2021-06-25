@@ -6,3 +6,4 @@ fastai==1.0.61
 pytest-shutil
 gdown
 seaborn
+sklearn
