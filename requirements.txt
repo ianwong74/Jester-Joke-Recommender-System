@@ -4,3 +4,5 @@ nltk
 db-sqlite3
 fastai
 pytest-shutil
+gdown
+seaborn
